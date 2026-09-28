@@ -17,6 +17,4 @@ def process_travel_inquiry(client_request):
     
     return extracted_data
 
-# Teste do fluxo
-request_sample = "Gostaria de cotar passagens e alojamento para múltiplos destinos globais."
-print(process_travel_inquiry(request_sample))
+
